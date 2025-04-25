@@ -1,4 +1,4 @@
-**Effective Date:** [Insert Date]
+**Effective Date:** [25.4.2025]
 
 Welcome to **Hulter**, a personal-use Discord bot that connects with Spotify to display your currently playing songs in a Discord channel. By using Hulter, you agree to the following Terms of Service and our Privacy Policy.
 
