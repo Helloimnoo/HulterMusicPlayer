@@ -1,4 +1,4 @@
-### 📄 **Terms of Service Updates**
+### **Terms of Service Updates**
 
 **Version:** 1.1  
 **Date:** [25.4.2025]
@@ -12,7 +12,7 @@
 
 ---
 
-### 🔐 **Privacy Policy Updates**
+### **Privacy Policy Updates**
 
 **Version:** 1.1  
 **Date:** [25.4.2025]
