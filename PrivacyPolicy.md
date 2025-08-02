@@ -1,4 +1,4 @@
-**Effective Date:** [25.4.2025]
+**Effective Date:** [2.7.2025]
 
 Hulter respects your privacy and is committed to protecting any personal data it may access during use.
 
@@ -27,12 +27,9 @@ Hulter respects your privacy and is committed to protecting any personal data it
 ### 5. Security  
 We take reasonable measures to protect any data Hulter handles. However, no system is perfectly secure, and we cannot guarantee absolute protection.
 
-### 6. Your Rights  
-You may request deletion of your data by contacting us at [Your Contact Email or Discord Handle].
-
-### 7. Children’s Privacy  
+### 6. Children’s Privacy  
 Hulter is not intended for users under 13. We do not knowingly collect data from children.
 
 ---
 
-**Disclaimer:** Hulter is a single-user Discord bot not intended for use in public or multi-user servers. Any use outside of its intended scope is unsupported and may result in limited functionality or termination. Hulter is not affiliated with Spotify or Discord.
+**Disclaimer:** Hulter is a single-user Discord bot not intended for use in public or multi-user servers. Any use outside of its intended scope is unsupported and may be annoying for some people. Hulter is not affiliated with Spotify or Discord.
